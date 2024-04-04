@@ -2,11 +2,11 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Day3a {
+public class Day4a {
     public static void main(String[] args) {
-    int[] arr = generateArray();
+        int[] arr = generateArray();
         System.out.println(Arrays.toString(arr));
-
+        System.out.println(Arrays.toString(descendingArray(arr)));
     }
 
     public static int[] generateArray(){
@@ -36,11 +36,11 @@ public class Day3a {
         int m = 0;
         int n = array.length -2;
         while(m < n){
-            for(int i = 0; i < array.length; i++){
-                if(array[i] > array[i+1]){
-                    int tmp = array[i];
-                    array[i] = array[i+1];
-                    array[i+1] = tmp;
+            for(int i = 0; i < array.length -1 ; i++){
+                if(array[i] < array[i+1]){
+                    int tmp = array[i+1];
+                    array[i+1] = array[i];
+                    array[i] = tmp;
                 }
             }
             m++;
