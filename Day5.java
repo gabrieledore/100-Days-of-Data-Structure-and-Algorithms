@@ -5,8 +5,6 @@ import java.util.Scanner;
 public class Day5 {
     public static void main(String[] args) {
         int[] arr = generateArray();
-        System.out.println(Arrays.toString(arr));
-        System.out.println("===============");
         System.out.println(Arrays.toString(insertionSort(arr)));
     }
 
@@ -38,11 +36,9 @@ public class Day5 {
                 int tmp = array[i];
                 array[i] = array[j];
                 array[j] = tmp;
-                System.out.println(Arrays.toString(array));
                 i--;
                 j--;
             }
-            System.out.println("===");
         }
         return array;
     }
