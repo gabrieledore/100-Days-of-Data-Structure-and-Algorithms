@@ -9,3 +9,4 @@ In this repo I will share my 100+ Days of Code of Data Structure and Algorithms 
 ### [Day 2 - Reverse an array of n-dimension](https://github.com/gabrieledore/100-Days-of-Data-Structure-and-Algorithms/blob/master/Day4.java) - 2/04/202
 ### [Day 3 - Sort array in ascending order](https://github.com/gabrieledore/100-Days-of-Data-Structure-and-Algorithms/blob/master/Day3a.java) - 3/04/202
 ### [Day 4 - Sort array in descending order](https://github.com/gabrieledore/100-Days-of-Data-Structure-and-Algorithms/blob/master/Day4a.java) - 4/04/202
+### [Day 5 - Insertion Sort](https://github.com/gabrieledore/100-Days-of-Data-Structure-and-Algorithms/blob/master/Day5.java) - 5/04/202
