@@ -1,7 +1,9 @@
 # 100-Days-of-Data-Structure-and-Algorithms
 
 In this repo I will share my 100+ Days of Code of Data Structure and Algorithms in Java. I will provide each day one or more algorithms, trying to increase the level of difficulty day by day.
-
+Abbreviations: {
+      TC: Time Complexity
+}
 # Array 
 ### [Day 1 - Find minimum and maximum values of a n-array](https://github.com/gabrieledore/100-Days-of-Data-Structure-and-Algorithms/blob/master/Day1.java) - 1/04/202
 ### [Day 1 - Find sum of a n-array](https://github.com/gabrieledore/100-Days-of-Data-Structure-and-Algorithms/blob/master/Day2.java) - 1/04/202
@@ -11,3 +13,4 @@ In this repo I will share my 100+ Days of Code of Data Structure and Algorithms 
 ### [Day 4 - Sort array in descending order](https://github.com/gabrieledore/100-Days-of-Data-Structure-and-Algorithms/blob/master/Day4a.java) - 4/04/202
 ### [Day 5 - Insertion Sort](https://github.com/gabrieledore/100-Days-of-Data-Structure-and-Algorithms/blob/master/Day5.java) - 5/04/202
 ### [Day 6 - Sorting binary array](https://github.com/gabrieledore/100-Days-of-Data-Structure-and-Algorithms/blob/master/Day6.java) - 6/04/202
+### [Day 7 - Create from a n-array a new array without duplicates (without sorting)](https://github.com/gabrieledore/100-Days-of-Data-Structure-and-Algorithms/blob/master/Day7.java) - 7/04/202 {TC: O(n^2)}
