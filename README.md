@@ -15,4 +15,5 @@ Abbreviations: {
 ### [Day 6 - Sorting binary array](https://github.com/gabrieledore/100-Days-of-Data-Structure-and-Algorithms/blob/master/Day6.java) - 6/04/202
 ### [Day 7 - Create from a n-array a new array without duplicates (without sorting)](https://github.com/gabrieledore/100-Days-of-Data-Structure-and-Algorithms/blob/master/Day7.java) - 7/04/202 {TC: O(n^2)}
 ### [Day 8 - Create from a n-array a new array without duplicates (with sorting)](https://github.com/gabrieledore/100-Days-of-Data-Structure-and-Algorithms/blob/master/Day8.java) - 8/04/202 {TC: O(nlogn)}
-### [Day 9 - Dutch National Flag Problem](https://github.com/gabrieledore/100-Days-of-Data-Structure-and-Algorithms/blob/master/Day8.java) - 9/04/202 {TC: O(n)}
+### [Day 9 - Dutch National Flag Problem](https://github.com/gabrieledore/100-Days-of-Data-Structure-and-Algorithms/blob/master/Day9.java) - 9/04/202 {TC: O(n)}
+### [Day 10 - Find the intersection between two arrays](https://github.com/gabrieledore/100-Days-of-Data-Structure-and-Algorithms/blob/master/Day10.java) - 10/04/202 {TC: O(n^2)}
