@@ -19,4 +19,6 @@ Abbreviations: {
 ### [Day 10 - Find the intersection between two arrays](https://github.com/gabrieledore/100-Days-of-Data-Structure-and-Algorithms/blob/master/Day10.java) - 10/04/202 {TC: O(n^2)}
 ### [Day 11 - Rotate an array by n values](https://github.com/gabrieledore/100-Days-of-Data-Structure-and-Algorithms/blob/master/Day11.java) - 11/04/202 {TC: O(n)}
 ### [Day 12 - Binary Search](https://github.com/gabrieledore/100-Days-of-Data-Structure-and-Algorithms/blob/master/Day12.java) - 12/04/202 {TC: O(logn)}
+### [Day 13a - Bubble Sort](https://github.com/gabrieledore/100-Days-of-Data-Structure-and-Algorithms/blob/master/Day13a.java) - 13/04/202 {TC: O(n^2)}
+### [Day 13ab- Selection Sort](https://github.com/gabrieledore/100-Days-of-Data-Structure-and-Algorithms/blob/master/Day13b.java) - 13/04/202 {TC: O(n^2)}
 
