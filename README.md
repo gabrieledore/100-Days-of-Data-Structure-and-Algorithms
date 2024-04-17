@@ -22,5 +22,5 @@ Abbreviations: {
 ### [Day 13a - Bubble Sort](https://github.com/gabrieledore/100-Days-of-Data-Structure-and-Algorithms/blob/master/Day13a.java) - 13/04/202 {TC: O(n^2)}
 ### [Day 13b- Selection Sort](https://github.com/gabrieledore/100-Days-of-Data-Structure-and-Algorithms/blob/master/Day13b.java) - 13/04/202 {TC: O(n^2)}
 ### [Day 14- Merge Sort](https://github.com/gabrieledore/100-Days-of-Data-Structure-and-Algorithms/blob/master/Day14.java) - 15/04/202 {TC: O(nlogn)}
-### [Day 15- Quick Sort](https://github.com/gabrieledore/100-Days-of-Data-Structure-and-Algorithms/blob/master/Day14.java) - 17/04/202 {TC: O(nlogn)}
+### [Day 15- Quick Sort](https://github.com/gabrieledore/100-Days-of-Data-Structure-and-Algorithms/blob/master/Day15.java) - 17/04/202 {TC: O(nlogn)}
 
